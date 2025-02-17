@@ -33,7 +33,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/SimoRedDevil/Portfolio.git
    cd portfolio-website
    npm install
    npm run dev  
